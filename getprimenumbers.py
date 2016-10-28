@@ -7,3 +7,5 @@ for num in range(0,n+1):
 				break
 			    else:
 				print(num)
+if__name__ == '__main':
+get_prime(6)
